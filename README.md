@@ -1,4 +1,11 @@
 # RPG Character Maker
+Recursion Vue.js Project RPG Character Maker
+
+## URL
+https://m2mt-l.github.io/RPG_Character_Maker/
+
+## Desciption
+Input Name, Select gender, class and traits, The charactor parameter and picture will be changed dynamically.
 
 ## Project setup
 ```
